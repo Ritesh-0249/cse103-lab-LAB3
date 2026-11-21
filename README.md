@@ -64,3 +64,6 @@ python3 main.py
 - [GitHub Skills](https://skills.github.com/)
 - [Markdown Guide](https://www.markdownguide.org/)
 
+
+## Description
+This repository contains my CSE103 Git and GitHub lab work.
